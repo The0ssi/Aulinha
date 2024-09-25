@@ -1,0 +1,16 @@
+#titulo {
+    background: pink;
+    width: 140px;
+    height: 80px;
+    border: 10px solid #111;
+    padding: 20px;
+    margin: 20px;
+}
+#paragrafo {
+    background: #aaa;
+    width: 140px;
+    height: 80px;
+    border: 10px solid #111;
+    padding: 20px;
+    margin: 20px;
+}
